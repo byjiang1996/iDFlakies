@@ -67,8 +67,8 @@
     <dependencies>
         <dependency>
             <groupId>edu.illinois.cs</groupId>
-            <artifactId>testrunner-maven-plugin</artifactId>
-            <version>1.1</version>
+            <artifactId>testrunner-core-plugin</artifactId>
+            <version>1.2-SNAPSHOT</version>
         </dependency>
 
         <dependency>
